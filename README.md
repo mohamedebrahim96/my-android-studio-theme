@@ -4,6 +4,14 @@ Today, during a glorious transition from 1.5 rc1 to 1.5 Android Studio decided t
 
 ## Final appearance
 
-| Get Started     | Main     | Shot     |
-| :-------------: | :-------------: | :-------------: |
-| ![Get-Started](./screen-shots/prettyAS-1.png) | ![Main](./screen-shots/prettyAS-2.png) | ![Shot](./screen-shots/prettyAS-3.png) |
+| Shot     |
+| :-------------: |
+| ![Shot](./screen%20shots/prettyAS-1.png) |
+
+| Shot     |
+| :-------------: |
+| ![Main](./screen%20shots/prettyAS-2.png) |
+
+| Shot     |
+| :-------------: |
+| ![Shot](./screen%20shots/prettyAS-3.png) |
