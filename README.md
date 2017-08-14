@@ -21,7 +21,7 @@ Today, during a glorious transition from 1.5 rc1 to 1.5 Android Studio decided t
 | ![Shot](./screen%20shots/prettyAS-4.png) |
 
 =======================================================================================
-1. ### GUI Theme manual from here
+### GUI Theme manual from here
 Open the Settings/Preferences dialog (OSX/Unix: ⌘+,, Windows: Ctrl+Alt+S)
 In the left-hand pane, select Plugins.
 Click Browse repositories… and search for Material Theme UI
@@ -33,7 +33,7 @@ Click OK in the Settings dialog and restart for the changes to take effect.
 
 NOTE: No need to set schema as we’ll be using a different one.
 
-2. ### Editor Schema manual from here
+### Editor Schema manual from here
 Find plugin
 Open IDE and locate File >> Settings >> Plugins and click Browse Repositories…
 Search for and click ChroMATERIAL and click Install plugin
@@ -44,7 +44,7 @@ Locate File >> Settings >> Editor >> Colors & Fonts >> Scheme
 Choose ChroMATERIAL and click Apply/OK.
  tl;dr: ⌘⇧a → "Plugins" → ↩ → ⌃⌥b → <search> → "ChroMATERIAL" → [Install plugin] → ⌃⌥c → ⎋ → <restart> → ⌘⇧a → "Color Scheme" → [3. ChroMATERIAL] → ↩
 
-3. ### HOLO Logcat
+### HOLO Logcat
 Type	Color
 verbose:	#BBB
 debug:	#33B5E5
@@ -60,4 +60,6 @@ Click Apply/OK.
 ```
  tl;dr: ⌘⇧a → "Android Logcat" → [Save as...] → "ChroMATERIAL + HOLO"¹ → ↩ → <set foreground colors as in the table ↑> → ⎋
 ```
-¹ - any other name is fine too
+
+
+and as always thanks for reading
